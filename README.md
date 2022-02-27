@@ -77,6 +77,11 @@ My name is Franco Leyes, I have been in love with technology for as long as I ca
 
 </table>
 
+### Contact
+
+Want to contact with me? </br>
+Email: francoleyes2000@gmail.com </br>
+Linkedin: https://www.linkedin.com/in/francoleyesdev/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frsel99&show_icons=true&theme=radical&hide_border=true)
 
