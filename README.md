@@ -1,6 +1,6 @@
 ### Hello there. 🤝 
 
-My name is Franco Leyes, I have been in love with technology for as long as I can remember. That brings me to today i guess :). I also love playing video games, learning guitar, and drawing.
+My name is Franco Leyes, I have been in love with technology for as long as I can remember. I also love playing video games, learning guitar, and drawing.
 
 
 #### Languages
