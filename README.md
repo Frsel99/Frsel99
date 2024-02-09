@@ -1,10 +1,10 @@
 
-Hi! My name is Franco Leyes
+Hello There! I'm Franco Leyes
 ====================================================================================================================================
 
 A Full Stack Developer
 ---
-with a background in psychology, who began his journey with video game development during his teenage years. I rediscovered my love for programming a few years ago, specializing in artificial intelligence and expanding into web and mobile development.
+with a psychology background. My venture into programming started with video game development in my teenage years. A few years ago, I reignited my passion for programming, focusing on artificial intelligence for the prevention and treatment of patients, and later branching out into web and mobile development.
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [francoleyes2000@gmail.com](mailto:francoleyes2000@gmail.com)
